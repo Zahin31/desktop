@@ -35,5 +35,6 @@
     "javascriptreact",
     "typescript",
     "typescriptreact"
-  ]
+  ],
+  "git.ignoreLimitWarning": true
 }
